@@ -6,3 +6,5 @@ plotly
 seaborn
 matplotlib
 koreanize-matplotlib
+beautifulsoup4
+finance-datareader

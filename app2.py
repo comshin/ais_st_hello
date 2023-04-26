@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('Uber pickups in NYC(우버 픽업 예제')
+st.title('Uber pickups in NYC(연습)')
 
 chart_data = pd.DataFrame(
      np.random.randn(20, 3),

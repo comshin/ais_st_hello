@@ -1,3 +1,5 @@
 # ais_st_hello
 
-practice
+streamlit 대시보드 만들기
+
+mpg 자동차 연비
